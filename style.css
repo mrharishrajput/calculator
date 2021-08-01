@@ -1,0 +1,27 @@
+body{
+    background:linear-gradient(to right,#22f156,#f36831) ;
+}
+.container{
+    text-align: center;
+    margin-top: 200px;
+}
+
+.display{
+background-color: rgb(236, 212, 108);
+width: 212px;
+border: 2px solid rgb(164, 192, 164);
+padding: 2%;
+margin:auto; 
+border-radius: 15%;
+font-size: x-large;
+text-overflow: clip;
+overflow:auto;
+
+}
+button{
+    background-color: rgb(200, 202, 191);
+    height: 40px;
+    width: 50px;
+    margin: auto;
+    border-radius: 15%;
+}
